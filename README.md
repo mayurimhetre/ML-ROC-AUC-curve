@@ -1,6 +1,6 @@
 # ML-ROC-AUC-curve
 
-For "make_classification" dataset in skleran:
+For "make_classification" dataset in sklearn:
 
 **Logistic Regression:**
 
